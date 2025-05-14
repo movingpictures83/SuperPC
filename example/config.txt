@@ -1,0 +1,2 @@
+Prefix plugins/SuperPC/example/
+Plugin SuperPC inputfile parameters.train.txt outputfile output.rds
